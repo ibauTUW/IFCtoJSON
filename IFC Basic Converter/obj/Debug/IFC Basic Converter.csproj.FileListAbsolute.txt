@@ -1,0 +1,6 @@
+C:\Users\vpetrina\source\repos\IFC Basic Converter\IFC Basic Converter\bin\Debug\IFC Basic Converter.exe.config
+C:\Users\vpetrina\source\repos\IFC Basic Converter\IFC Basic Converter\bin\Debug\IFC Basic Converter.exe
+C:\Users\vpetrina\source\repos\IFC Basic Converter\IFC Basic Converter\bin\Debug\IFC Basic Converter.pdb
+C:\Users\vpetrina\source\repos\IFC Basic Converter\IFC Basic Converter\obj\Debug\IFC Basic Converter.csprojAssemblyReference.cache
+C:\Users\vpetrina\source\repos\IFC Basic Converter\IFC Basic Converter\obj\Debug\IFC Basic Converter.exe
+C:\Users\vpetrina\source\repos\IFC Basic Converter\IFC Basic Converter\obj\Debug\IFC Basic Converter.pdb
